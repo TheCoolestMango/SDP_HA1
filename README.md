@@ -1,4 +1,5 @@
 # Alchemy game
+![logo](https://github.com/TheCoolestMango/SDP_HA1/blob/master/alchemy.png?raw=true)
 __________________________
 
 ## Installation and launch
